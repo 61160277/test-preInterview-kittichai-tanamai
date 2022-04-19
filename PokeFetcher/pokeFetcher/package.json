@@ -1,5 +1,5 @@
 {
-  "name": "pokefetcher",
+  "name": "pokefetcher_kittichai_tanamai",
   "version": "1.0.0",
   "description": "Demo for test exam PERSEC PokeFetcher 3 module",
   "main": "index.js",
@@ -9,6 +9,9 @@
   "keywords": [
     "pokefetcher"
   ],
-  "author": "Kittichai Tanamai",
-  "license": "ISC"
+  "author": "Kittichai Tanamai <61160277@go.buu.ac.th>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
 }
